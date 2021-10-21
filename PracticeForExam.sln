@@ -3,15 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Oscars ceremony", "01. Oscars ceremony\01. Oscars ceremony.csproj", "{FEF1CB77-F6E9-4EA7-9492-A655FF13BFDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Oscars ceremony", "01. Oscars ceremony\01. Oscars ceremony.csproj", "{FEF1CB77-F6E9-4EA7-9492-A655FF13BFDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02. Godzilla vs. Kong", "T02. Godzilla vs. Kong\T02. Godzilla vs. Kong.csproj", "{5E705F77-A650-433E-9113-4DCA7830AEB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T02. Godzilla vs. Kong", "T02. Godzilla vs. Kong\T02. Godzilla vs. Kong.csproj", "{5E705F77-A650-433E-9113-4DCA7830AEB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03. Oscars week in cinema", "T03. Oscars week in cinema\T03. Oscars week in cinema.csproj", "{3FAB9509-7CC2-4B89-8965-B19657211B21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T03. Oscars week in cinema", "T03. Oscars week in cinema\T03. Oscars week in cinema.csproj", "{3FAB9509-7CC2-4B89-8965-B19657211B21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04. Cinema Voucher", "T04. Cinema Voucher\T04. Cinema Voucher.csproj", "{CB42CCF0-154F-4C1F-9FCF-AFE919D0BA60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T04. Cinema Voucher", "T04. Cinema Voucher\T04. Cinema Voucher.csproj", "{CB42CCF0-154F-4C1F-9FCF-AFE919D0BA60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05. Movie Ratings", "T05. Movie Ratings\T05. Movie Ratings.csproj", "{04790428-1A62-4403-B229-3EBD43790275}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05. Movie Ratings", "T05. Movie Ratings\T05. Movie Ratings.csproj", "{04790428-1A62-4403-B229-3EBD43790275}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01. Number Pyramid", "T01. Number Pyramid\T01. Number Pyramid.csproj", "{530E00CE-8CB1-4E34-98F2-AE716402DAE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02. Equal Sums Even Odd Position", "T02. Equal Sums Even Odd Position\T02. Equal Sums Even Odd Position.csproj", "{6FC2E5A9-8C6E-4CCB-8AD1-F3B9769D3893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03. Sum Prime Non Prime", "T03. Sum Prime Non Prime\T03. Sum Prime Non Prime.csproj", "{9322C9D0-729D-480D-8001-ECCC84F0D1F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04. Train The Trainers", "T04. Train The Trainers\T04. Train The Trainers.csproj", "{9CC50365-E839-4F10-B57F-9136FD3FC237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05. Special Numbers", "T05. Special Numbers\T05. Special Numbers.csproj", "{84F66E75-BB7B-4190-AF0E-6EB0C111F656}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +49,26 @@ Global
 		{04790428-1A62-4403-B229-3EBD43790275}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04790428-1A62-4403-B229-3EBD43790275}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04790428-1A62-4403-B229-3EBD43790275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{530E00CE-8CB1-4E34-98F2-AE716402DAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{530E00CE-8CB1-4E34-98F2-AE716402DAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{530E00CE-8CB1-4E34-98F2-AE716402DAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{530E00CE-8CB1-4E34-98F2-AE716402DAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC2E5A9-8C6E-4CCB-8AD1-F3B9769D3893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC2E5A9-8C6E-4CCB-8AD1-F3B9769D3893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC2E5A9-8C6E-4CCB-8AD1-F3B9769D3893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC2E5A9-8C6E-4CCB-8AD1-F3B9769D3893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9322C9D0-729D-480D-8001-ECCC84F0D1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9322C9D0-729D-480D-8001-ECCC84F0D1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9322C9D0-729D-480D-8001-ECCC84F0D1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9322C9D0-729D-480D-8001-ECCC84F0D1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC50365-E839-4F10-B57F-9136FD3FC237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC50365-E839-4F10-B57F-9136FD3FC237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC50365-E839-4F10-B57F-9136FD3FC237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC50365-E839-4F10-B57F-9136FD3FC237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84F66E75-BB7B-4190-AF0E-6EB0C111F656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F66E75-BB7B-4190-AF0E-6EB0C111F656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F66E75-BB7B-4190-AF0E-6EB0C111F656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F66E75-BB7B-4190-AF0E-6EB0C111F656}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
